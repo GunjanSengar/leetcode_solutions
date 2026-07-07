@@ -6,6 +6,7 @@ My leetcode problem solving in Java
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0001-two-sum) |
 | [1288-remove-covered-intervals](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
@@ -16,4 +17,8 @@ My leetcode problem solving in Java
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

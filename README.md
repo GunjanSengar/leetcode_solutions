@@ -7,6 +7,7 @@ My leetcode problem solving in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0204-count-primes) |
 | [1288-remove-covered-intervals](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
@@ -48,4 +49,8 @@ My leetcode problem solving in Java
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

@@ -32,6 +32,7 @@ My leetcode problem solving in Java
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0204-count-primes) |
 ## Enumeration
 |  |

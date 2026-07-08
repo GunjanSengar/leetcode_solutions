@@ -14,6 +14,7 @@ My leetcode problem solving in Java
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
@@ -23,6 +24,7 @@ My leetcode problem solving in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0001-two-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -39,4 +41,8 @@ My leetcode problem solving in Java
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0204-count-primes) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->

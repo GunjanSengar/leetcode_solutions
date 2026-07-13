@@ -15,6 +15,7 @@ My leetcode problem solving in Java
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [1189-maximum-number-of-balloons](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -26,6 +27,7 @@ My leetcode problem solving in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [1189-maximum-number-of-balloons](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Prefix Sum
 |  |
@@ -35,6 +37,7 @@ My leetcode problem solving in Java
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0204-count-primes) |

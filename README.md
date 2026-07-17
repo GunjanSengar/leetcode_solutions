@@ -7,6 +7,7 @@ My leetcode problem solving in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0204-count-primes) |
 | [1288-remove-covered-intervals](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
@@ -23,6 +24,7 @@ My leetcode problem solving in Java
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
@@ -60,4 +62,8 @@ My leetcode problem solving in Java
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

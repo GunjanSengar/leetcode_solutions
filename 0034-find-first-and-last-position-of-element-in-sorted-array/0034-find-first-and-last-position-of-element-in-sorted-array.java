@@ -26,10 +26,7 @@ while(left<=right){
         right=mid-1;
     }
 }
-// ArrayList<Integer> ans=new ArrayList<>();
-// ans.add(first);
-// ans.add(last);
-// return ans;
+
 int[] ans={first,last};
 return ans;
 

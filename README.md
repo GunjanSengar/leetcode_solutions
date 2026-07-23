@@ -15,6 +15,7 @@ My leetcode problem solving in Java
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0204-count-primes) |
 | [1288-remove-covered-intervals](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
@@ -83,4 +84,5 @@ My leetcode problem solving in Java
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->

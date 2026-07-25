@@ -56,6 +56,7 @@ My leetcode problem solving in Java
 | [0009-palindrome-number](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0204-count-primes) |
@@ -89,6 +90,7 @@ My leetcode problem solving in Java
 | [0033-search-in-rotated-sorted-array](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0162-find-peak-element) |

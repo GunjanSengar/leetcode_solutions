@@ -7,6 +7,7 @@ My leetcode problem solving in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0018-4sum) |
@@ -96,6 +97,7 @@ My leetcode problem solving in Java
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0035-search-insert-position) |
@@ -118,4 +120,8 @@ My leetcode problem solving in Java
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

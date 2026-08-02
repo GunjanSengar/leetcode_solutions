@@ -31,6 +31,7 @@ My leetcode problem solving in Java
 | [1539-kth-missing-positive-number](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2643-row-with-maximum-ones](https://github.com/GunjanSengar/leetcode_solutions/tree/master/2643-row-with-maximum-ones) |
 ## String
 |  |
 | ------- |
@@ -124,4 +125,8 @@ My leetcode problem solving in Java
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/GunjanSengar/leetcode_solutions/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->

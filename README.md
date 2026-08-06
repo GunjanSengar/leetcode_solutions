@@ -41,6 +41,7 @@ My leetcode problem solving in Java
 | [0012-integer-to-roman](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
+| [1021-remove-outermost-parentheses](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
@@ -139,4 +140,12 @@ My leetcode problem solving in Java
 | [0240-search-a-2d-matrix-ii](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/GunjanSengar/leetcode_solutions/tree/master/2643-row-with-maximum-ones) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

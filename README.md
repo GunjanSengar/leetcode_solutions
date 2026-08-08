@@ -40,6 +40,7 @@ My leetcode problem solving in Java
 | ------- |
 | [0012-integer-to-roman](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0344-reverse-string) |
@@ -101,6 +102,7 @@ My leetcode problem solving in Java
 | [0018-4sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0344-reverse-string) |
 ## Binary Search

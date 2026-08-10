@@ -8,6 +8,7 @@ My leetcode problem solving in Java
 | ------- |
 | [0001-two-sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0018-4sum) |
@@ -40,6 +41,7 @@ My leetcode problem solving in Java
 | ------- |
 | [0012-integer-to-roman](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
@@ -161,4 +163,8 @@ My leetcode problem solving in Java
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

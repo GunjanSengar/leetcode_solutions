@@ -45,6 +45,7 @@ My leetcode problem solving in Java
 | [0125-valid-palindrome](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -56,6 +57,7 @@ My leetcode problem solving in Java
 | [0015-3sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
@@ -63,6 +65,7 @@ My leetcode problem solving in Java
 | [0001-two-sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Prefix Sum

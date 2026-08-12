@@ -52,6 +52,7 @@ My leetcode problem solving in Java
 | [0242-valid-anagram](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0796-rotate-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -182,4 +183,8 @@ My leetcode problem solving in Java
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0076-minimum-window-substring) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

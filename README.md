@@ -55,6 +55,7 @@ My leetcode problem solving in Java
 | [0796-rotate-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1903-largest-odd-number-in-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
@@ -92,6 +93,7 @@ My leetcode problem solving in Java
 | [0168-excel-sheet-column-title](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0204-count-primes) |
+| [1903-largest-odd-number-in-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -150,6 +152,7 @@ My leetcode problem solving in Java
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/GunjanSengar/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/GunjanSengar/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
